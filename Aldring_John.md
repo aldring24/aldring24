@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aldring john
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on fuzzy MCDM models with applications
